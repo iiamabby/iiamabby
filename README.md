@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abby</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">A Developer advocate / Software Engineer</h3>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iiamabby" alt="iiamabby" /></a> </p>
 
